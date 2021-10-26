@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KK Blog</title>
+  
+  <subtitle>神秘的中年男人</subtitle>
+  <link href="https://www.vekaco.fun/atom.xml" rel="self"/>
+  
+  <link href="https://www.vekaco.fun/"/>
+  <updated>2021-10-22T05:58:04.148Z</updated>
+  <id>https://www.vekaco.fun/</id>
+  
+  <author>
+    <name>Vekaco</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="https://www.vekaco.fun/2021/10/22/my-first-blog/"/>
+    <id>https://www.vekaco.fun/2021/10/22/my-first-blog/</id>
+    <published>2021-10-22T05:56:36.000Z</published>
+    <updated>2021-10-22T05:58:04.148Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="first-session"><a href="#first-session" class="headerlink" title="first session"></a>first session</h3><h3 id="second-session"><a href="#second-session" class="headerlink" title="second session"></a>second session</h3><h3 id="third-session"><a href="#third-session" class="headerlink" title="third session"></a>third session</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;first-session&quot;&gt;&lt;a href=&quot;#first-session&quot; class=&quot;headerlink&quot; title=&quot;first session&quot;&gt;&lt;/a&gt;first session&lt;/h3&gt;&lt;h3 id=&quot;second-session&quot;&gt;&lt;a hr</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.vekaco.fun/2021/10/22/hello-world/"/>
+    <id>https://www.vekaco.fun/2021/10/22/hello-world/</id>
+    <published>2021-10-22T05:48:50.806Z</published>
+    <updated>2021-10-22T05:48:50.806Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
